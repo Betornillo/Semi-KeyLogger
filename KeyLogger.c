@@ -5,7 +5,6 @@ int main()
   int c;
   FILE *fp;
 
-  //fp = fopen("/home/centralsystem/Escritorio/SO/TareaMoral/Log.txt", "a+");
   fp = fopen("Log.txt", "a+");
 
 
